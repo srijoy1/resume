@@ -1,0 +1,83 @@
+* {margin:0;padding:0}
+body {background-color: #8F8585;font-family:Century Gothic, Arial;font-size:15px;line-height:22px;}
+h1, h2, h3, h4, h5, h6 {;font-weight:normal;}
+a{text-decoration:none;color:#000;}
+a:hover {text-decoration:none;}
+
+.fix{overflow:hidden}
+.float-left{float:left}
+.float-right{float:right}
+.resume{width:1000px; margin:0 auto; background:#fff}
+header{background: #000;}
+.header{padding: 20px 25px 0px 25px;
+border-bottom: 5px solid #CB8C0E;
+background: url(bg.png) no-repeat;
+padding-bottom: 19px;
+}
+.profile_img{width:20%}
+.profile_img img{width: 70%;
+border-radius: 9px;}
+.name{width:50%}
+.name h1{font-size: 40px;
+font-family: Elephant;
+margin-top: 40px;
+color: #fff;}
+.name p{font-size: 20px;
+margin-top: 8px;
+padding: 5px;
+color: #fff;}
+.address{width: 30%;text-align: right;color: #fff;font-size: 16px;font-style: italic;}
+.address ul{list-style: none;
+color: #0e0101;}
+.address ul li{}
+.address ul li a{}
+.
+
+
+.resume_content1{padding:0 25px}
+.single_content{padding: 0px 0 15px 0px;
+border-bottom: 1px solid #E9E8BB;
+margin: 15px 25px;text-align: justify;}
+.content{width:30%}
+.content h2{font-size: 30px;
+line-height: 40px;
+color: #F09E0F;
+font-style: italic;}
+.details{width:70%; overflow:hidden}
+.details h3{font-size: 20px;}
+.details p{}
+.details ul{width: 33%;
+float: left;
+list-style: none;}
+.details ol li{margin-bottom: 20px;}
+.details ol li .span{font-size: 12px;}
+table{}
+footer{background: #000;}
+footer .name{width:40%}
+footer .address{width:60%}
+.footer{padding: 20px 25px 0px 25px;
+border-top: 5px solid #CB8C0E;
+background: url(bg1.png) no-repeat;
+padding-bottom: 20px;}
+.name1{}
+.name1 h1{font-size: 30px;
+margin-bottom: 5px;
+margin-top: 15px;
+font-style: italic;}
+.address1{text-align: right;}
+.address1 ul{list-style:none; color:#fff}
+
+table, td, th {
+    border: 1px solid #E9E8BB;text-align:center
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.fff table td {
+    border: none;
+}
+.fff table tr td{text-align:left}
+.fff table{border:none}
